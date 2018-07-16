@@ -1,5 +1,7 @@
-body { background-color:#707070; }
+body { background-color:#ffffff; }
 
-h1 {font-family: Arial, san-serif; }
+h1 {font-family: Arial, san-serif; color: white}
 
-p {font-weight: bold; font-size: 24px; font-style: italic;}
+p {font-weight: bold; font-size: 24px;}
+#slogan { font-style: italic; }
+#colorblock {background-color: #707070; }
